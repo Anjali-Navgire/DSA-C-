@@ -22,44 +22,44 @@
 # 📁 Repository Structure
 
 ## DSA-Repository/
-│
-├── Arrays/
-│   ├── ArrayBasics.cpp
-│   ├── TwoSum.cpp
-│   └── MaximumSubarray.cpp
-│
-├── LinkedLists/
-│   ├── SinglyLinkedList.cpp
-│   ├── DoublyLinkedList.cpp
-│   └── LinkedListCycle.cpp
-│
-├── StacksAndQueues/
-│   ├── StackImplementation.cpp
-│   ├── QueueImplementation.cpp
-│   └── BalancedParentheses.cpp
-│
-├── Trees/
-│   ├── BinaryTree.cpp
-│   ├── BinarySearchTree.cpp
-│   └── TreeTraversals.cpp
-│
-├── Graphs/
-│   ├── BFS.cpp
-│   ├── DFS.cpp
-│   └── Dijkstra.cpp
-│
-├── SortingAlgorithms/
-│   ├── BubbleSort.cpp
-│   ├── MergeSort.cpp
-│   └── QuickSort.cpp
-│
-└── README.md
+- │
+-├── Arrays/
+-│   ├── ArrayBasics.cpp
+-│   ├── TwoSum.cpp
+-│   └── MaximumSubarray.cpp
+-│
+-├── LinkedLists/
+-│   ├── SinglyLinkedList.cpp
+-│   ├── DoublyLinkedList.cpp
+-│   └── LinkedListCycle.cpp
+-|
+-├── StacksAndQueues/
+-│   ├── StackImplementation.cpp
+-│   ├── QueueImplementation.cpp
+-│   └── BalancedParentheses.cpp
+-│
+-├── Trees/
+-│   ├── BinaryTree.cpp
+-│   ├── BinarySearchTree.cpp
+-│   └── TreeTraversals.cpp
+-│
+-├── Graphs/
+-│   ├── BFS.cpp
+-│   ├── DFS.cpp
+-│   └── Dijkstra.cpp
+-│
+-├── SortingAlgorithms/
+-│   ├── BubbleSort.cpp
+-│   ├── MergeSort.cpp
+-│   └── QuickSort.cpp
+-│
+-└── README.md
 
 # 🚀 Getting Started
 
 ## To get started, simply clone this repository:
 
-## git clone https://github.com/Anjali-Navgire/DSA-Cpp-Repository.git
+## git clone https://github.com/Anjali-Navgire/DSA-C-Repository.git
 
 # ✨ Features
 
